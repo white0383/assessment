@@ -4,6 +4,8 @@ const assessmentButton = document.getElementById('assessment');
 const resultDivided = document.getElementById('result-area');
 const tweetDivided = document.getElementById('tweet-area');
 
+//debug added 2003031737
+
 /**
  * 指定した要素の子供を全て削除する
  * @param {HTMLElement} element HTMLの要素
